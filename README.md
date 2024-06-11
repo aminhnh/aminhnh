@@ -37,6 +37,13 @@ Blender
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
 📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhnh&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</p>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhnh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=aminhnh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td>
+    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aminhnh&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+<br>
+<br>
